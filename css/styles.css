@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+
+h1 {
+  font-size: 300%;
+  padding-top: 60px;
+  font-family: 'Sacramento', cursive;
+  color: #39A2DB;
+  margin-bottom: 1px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-family: 'Charm', cursive;
+  color: #39A2DB;
+  margin-top: 50px;
+}
+
+h3 {
+  color: #00EAD3;
+  font-family: 'Akronim', cursive;
+}
+
+h3:hover {
+  background-color: #e5e4e2;
+  width: 50%;
+}
+
+.first {
+  background-color: #caf7e3;
+  height: 625px;
+  width: 100%;
+  margin-top: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.second {
+  background-color: #caf7e3;
+}
+
+.Third {
+  background-color: #caf7e3;
+  padding: 20px;
+  margin-bottom: 0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: orange;
+  border-width: 5px;
+  width: 20%;
+  margin-top: 40px;
+}
+
+a {
+  margin: 10px;
+}
+
+a:hover {
+  background-color: #e5e4e2;
+  width: 50%;
+}
+
+.top-c {
+  position: absolute;
+  left: 25%;
+  display: inline-block;
+  margin-top: 15px;
+}
+
+.left-c {
+  position: absolute;
+  left: 60%;
+  display: inline-block;
+  margin-top: 15px;
+}
+
+.bottom-c {
+  position: absolute;
+  left: 25%;
+  display: inline-block;
+}
+
+.right-c {
+  position: absolute;
+  left: 60%;
+  display: inline-block;
+}
+
+.skill-row {
+  width: 65%;
+  margin: 45px auto 75px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.mou {
+  height: 300px;
+}
+
+.an {
+  border-radius: 55%;
+  height: 275px;
+  margin-top: 50px;
+}
+
+.webdev {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.candc {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.solve {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.iam {
+  width: 50%;
+  margin: auto 25% auto 25%;
+}
+
+.oor {
+  margin-top: 15px;
+}
+
+.final {
+  margin-right: 100px;
+  text-align: right;
+  font-family: 'Ballet', cursive;
+  color: #FF5722;
+  font-size: 3.0rem;
+}
